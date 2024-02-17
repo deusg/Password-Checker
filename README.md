@@ -12,10 +12,10 @@ otherwise, it prompts the user to try again until they enter the correct passwor
 If not, it will prompt you to enter the password again until you get it right.
 
 ## Example
-Enter your password: ********
-Sorry, that is incorrect
-Enter your password: ********
-Success: You are correct
+- Enter your password: ********
+- Sorry, that is incorrect
+- Enter your password: ********
+- Success: You are correct
 
-# Credits
-This project was inspired by the book "Creative Coding in Python" (Chapter 3, Page 77).
+## Credits
+This project was inspired by the book "_Creative Coding in Python_" (Chapter 3, Page 77).
